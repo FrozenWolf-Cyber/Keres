@@ -10,11 +10,11 @@ from host import master_control
 from creation import create_db
 app = Flask(__name__)
 
-#mysql://be6a5ab891fb44:8c141094@us-cdbr-iron-east-01.cleardb.net/heroku_3c52ceb6363b1f9?reconnect=true
-db_host = 'us-cdbr-iron-east-01.cleardb.net'
-db_user = 'be6a5ab891fb44'
-db_psswrd = '8c141094'
-db = 'heroku_3c52ceb6363b1f9'
+
+db_host = 'db_hostt'
+db_user = 'db_user'
+db_psswrd = 'db_psswrd'
+db = 'db_name'
 
 @app.route('/', methods=['GET', 'POST'])
 def accept_request():
