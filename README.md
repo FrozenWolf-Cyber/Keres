@@ -1,6 +1,5 @@
 # Keres
-Keres is a skeleton game for Mass Multiplier Online games using python as backend with the halp of Flask to handle request from user and server and MySQL-coonector is used to communicate with the databse and MySQL is used as the database.
-The front end is made using Unity which is written in c#. The server is hosted using Heroku hobby dyno.
+Keres is a keleton game for Mass Multiplier Online games using python as backend with the help of Flask to handle request from user and server and MySQL-connector is used to communicate with the database and MySQL is used as the database. The front end is made using Unity which is written in c#. The server is hosted using Heroku hobby dyno.
 
 ### Home
 ![2](https://user-images.githubusercontent.com/57902078/137457315-6f570524-60d8-4eb1-9b24-d96e928c64d6.jpg)
